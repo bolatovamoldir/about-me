@@ -1,1 +1,1 @@
-Текст из ветки master
+Текст из ветки feature-conflict
